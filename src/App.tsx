@@ -10,7 +10,7 @@ function App() {
     <div className="min-h-screen bg-gradient-to-b from-slate-900 to-slate-800 text-white">
       <header className="py-8 px-4 text-center">
         <h1 className="text-4xl font-bold mb-2">Journey Through Earth's History</h1>
-        <p className="text-slate-300">Exploring 4.5 Billion Years of Evolution</p>
+        <p className="text-slate-300">Exploring 4.5 Billion Years of Evolution power by Hernan Gomez</p>
       </header>
 
       <div className="container mx-auto px-4 py-8">
